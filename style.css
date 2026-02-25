@@ -1,6 +1,51 @@
-.content {
+body{
+    background-color: #3f1c01;
+    color: #e8dcc4;
+    margin: 0px;
+    padding: 20px;
+}
+.Lyrics-Container {
     text-align: center;
+    background-image: url(Old-Paper\ Texture.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 120%;
+    font-family: 'Lora';
+    max-width: 1000px;
+    margin: 0px auto;
+    padding: 100px;
+    color: #3a2820;
+    position: relative;
+    text-shadow: 0px 0px 1px rgba(58, 40, 32, 0.5);
+    opacity: 0.9;
+    font-weight: 600;
+    
 }
 .upper-font {
-    font-size: 20px
+    font-size: 20px;
 }
+a:hover {
+    color: Red;
+    font-size: 125%;
+}
+h1 {
+    font-family: 'Oswald', sans-serif; 
+}  
+.Last-Line {
+    margin-bottom: 200px;
+}
+a:visited {
+    color: blue;
+}
+a:active {
+    background-color: aqua;
+}
+.Youtube-Video {
+    
+}
+img {
+    border: 10px solid white;
+    height: 200%;
+}
+
+
